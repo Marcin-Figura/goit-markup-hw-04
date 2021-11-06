@@ -204,7 +204,7 @@ img {
 /*---------indexy artykułów-------------*/
 .hero {
   background-color: #2f303a;
-  background-image: url('/images/background.jpg');
+  background-image: url('goit-markup-hw-04/images/background.jpg');
   background-size: cover;
   background-repeat: no-repeat;
 }
